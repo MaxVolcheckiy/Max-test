@@ -1,2 +1,2 @@
 
-    console.log("privet vsem");
+    console.log("privet vsem!");
