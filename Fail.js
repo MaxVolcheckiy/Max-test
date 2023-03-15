@@ -1,2 +1,2 @@
 console.log("Hello");
-FormData
+FormData console.log
