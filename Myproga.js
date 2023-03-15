@@ -1,3 +1,2 @@
 
-    console.log("privet");
-hghkg
+    console.log("privet vsem");
